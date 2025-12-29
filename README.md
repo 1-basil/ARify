@@ -15,16 +15,16 @@ A modern e-commerce platform with Augmented Reality (AR) product preview capabil
 
 ### Homepage & Product Catalog
 <p align="center">
-  <img src="./project_demo_screenshots/pc_getstarted.png" alt="getstarted Page" width="45%"/>
-  <img src="./project_demo_screenshots/pc_explore_page.png" alt="Product explore" width="45%"/>
-  <img src="./project_demo_screenshots/pc_product_page.png" alt="Product detial Page" width="45%"/>
-  <img src="./project_demo_screenshots/mobile_product_page.png" alt="mobile page" width="45%"/>
+  <img src="./project_demo_screenshots/pc_getstarted.png" alt="getstarted Page" height="30%" width="45%"/>
+  <img src="./project_demo_screenshots/pc_explore_page.png" alt="Product explore" height="30%" width="45%"/>
+  <img src="./project_demo_screenshots/pc_product_page.png" alt="Product detial Page" height="30%" width="45%"/>
+  <img src="./project_demo_screenshots/mobile_product_page.png" alt="mobile page" height="30%" width="45%"/>
 </p>
 
 ### AR Preview Experience
 <p align="center">
-  <img src="./project_demo_screenshots/mobile_ar_preview.jpg" alt="AR on Android" width="30%"/>
-  <img src="./project_demo_screenshots/pc_ar_preview.png" alt="3D Model Viewer" width="30%"/>
+  <img src="./project_demo_screenshots/mobile_ar_preview.jpg" alt="AR on Android" height="30%" width="30%"/>
+  <img src="./project_demo_screenshots/pc_ar_preview.png" alt="3D Model Viewer" height="30%" width="30%"/>
 </p>
 
 ### Product Management & Authentication
