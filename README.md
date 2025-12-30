@@ -15,16 +15,16 @@ A modern e-commerce platform with Augmented Reality (AR) product preview capabil
 
 ### Homepage & Product Catalog
 <p align="center">
-  <img src="./project_demo_screenshots/pc_getstarted.png" alt="getstarted Page" width="45%"/>
-  <img src="./project_demo_screenshots/pc_explore_page.png" alt="Product explore" width="45%"/>
-  <img src="./project_demo_screenshots/pc_product_page.png" alt="Product detial Page" width="45%"/>
-  <img src="./project_demo_screenshots/mobile_product_page.png" alt="mobile page" width="45%"/>
+  <img src="./project_demo_screenshots/pc_getstarted.png" alt="getstarted Page" height="30%" width="45%"/>
+  <img src="./project_demo_screenshots/pc_explore_page.png" alt="Product explore" height="30%" width="45%"/>
+  <img src="./project_demo_screenshots/pc_product_page.png" alt="Product detial Page" height="30%" width="45%"/>
+  <img src="./project_demo_screenshots/mobile_product_page.png" alt="mobile page" height="10%" width="45%"/>
 </p>
 
 ### AR Preview Experience
 <p align="center">
-  <img src="./project_demo_screenshots/mobile_ar_preview.jpg" alt="AR on Android" width="30%"/>
-  <img src="./project_demo_screenshots/pc_ar_preview.png" alt="3D Model Viewer" width="30%"/>
+  <img src="./project_demo_screenshots/mobile_ar_preview.jpg" alt="AR on Android" height="30%" width="30%"/>
+  <img src="./project_demo_screenshots/pc_ar_preview.png" alt="3D Model Viewer" height="30%" width="30%"/>
 </p>
 
 ### Product Management & Authentication
@@ -713,7 +713,10 @@ Please ensure:
 - No sensitive data in commits
 
 ---
+## Acknowledgement
+This project was developed as a collaborative team effort.
 
+---
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -728,10 +731,6 @@ Just include a copy of the license.
 
 ---
 
-## 👥 Authors & Credits
-
-### Project Lead
-- **Prem Saldana** - [GitHub](https://github.com/Premsaldana)
 
 ### Technologies & Resources Used
 - [Google Model Viewer](https://modelviewer.dev/) - 3D/AR rendering
@@ -741,20 +740,6 @@ Just include a copy of the license.
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Vite](https://vitejs.dev/) - Build tool
 
-### Special Thanks
-- Google for Model Viewer and ARCore/ARKit integration
-- The React and Node.js communities
-- All contributors and testers
-
----
-
-## 📞 Support & Contact
-
-For support, questions, or feedback:
-
-- **Issues:** Create an [issue on GitHub](https://github.com/Premsaldana/ARify/issues)
-- **Email:** your-email@example.com
-- **Twitter:** [@yourhandle](https://twitter.com)
 
 ---
 
@@ -794,7 +779,3 @@ For support, questions, or feedback:
 - [ ] API rate limiting
 
 ---
-
-**Made with ❤️ by ARify Team**
-
-*Last Updated: December 2, 2025*
